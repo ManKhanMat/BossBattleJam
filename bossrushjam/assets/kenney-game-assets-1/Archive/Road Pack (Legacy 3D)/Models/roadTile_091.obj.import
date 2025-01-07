@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bpsxocxky5xwm"
+path="res://.godot/imported/roadTile_091.obj-51e36fb1166fa098f5939e31f42d297a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadTile_091.obj-51e36fb1166fa098f5939e31f42d297a.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Road Pack (Legacy 3D)/Models/roadTile_091.obj"
+dest_files=["res://.godot/imported/roadTile_091.obj-51e36fb1166fa098f5939e31f42d297a.mesh", "res://.godot/imported/roadTile_091.obj-51e36fb1166fa098f5939e31f42d297a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5taeeiqjmnjn"
+path="res://.godot/imported/Space Cadet.ogg-36848bdf4b857efdd09f09fa7b44049b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Music loops (30 files)/Space Cadet.ogg"
+dest_files=["res://.godot/imported/Space Cadet.ogg-36848bdf4b857efdd09f09fa7b44049b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

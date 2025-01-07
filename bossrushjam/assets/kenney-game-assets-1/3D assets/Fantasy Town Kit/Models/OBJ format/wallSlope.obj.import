@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dyd7iqkr3o5ev"
+path="res://.godot/imported/wallSlope.obj-0995b65a390dcbda636f4bc7c64ad140.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallSlope.obj-0995b65a390dcbda636f4bc7c64ad140.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/wallSlope.obj"
+dest_files=["res://.godot/imported/wallSlope.obj-0995b65a390dcbda636f4bc7c64ad140.mesh", "res://.godot/imported/wallSlope.obj-0995b65a390dcbda636f4bc7c64ad140.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mmig3lwr7b7l"
+path="res://.godot/imported/tree_pine_tallSquare_detailed.obj-0687bd5718e72dfaf2d8543f64e0a83c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_pine_tallSquare_detailed.obj-0687bd5718e72dfaf2d8543f64e0a83c.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/tree_pine_tallSquare_detailed.obj"
+dest_files=["res://.godot/imported/tree_pine_tallSquare_detailed.obj-0687bd5718e72dfaf2d8543f64e0a83c.mesh", "res://.godot/imported/tree_pine_tallSquare_detailed.obj-0687bd5718e72dfaf2d8543f64e0a83c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bkvyed1vxto2p"
+path="res://.godot/imported/planksOpening.obj-b8b66413701df55ed115a3b53dd4439d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/planksOpening.obj-b8b66413701df55ed115a3b53dd4439d.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/planksOpening.obj"
+dest_files=["res://.godot/imported/planksOpening.obj-b8b66413701df55ed115a3b53dd4439d.mesh", "res://.godot/imported/planksOpening.obj-b8b66413701df55ed115a3b53dd4439d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://caslafw2cllub"
+path="res://.godot/imported/club_green.obj-2715cc19dd05893e31272ec8d4e8acd6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/club_green.obj-2715cc19dd05893e31272ec8d4e8acd6.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/club_green.obj"
+dest_files=["res://.godot/imported/club_green.obj-2715cc19dd05893e31272ec8d4e8acd6.mesh", "res://.godot/imported/club_green.obj-2715cc19dd05893e31272ec8d4e8acd6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

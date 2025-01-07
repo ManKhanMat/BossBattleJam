@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://codyqb1buytm8"
+path="res://.godot/imported/sudden_death.ogg-1535324a0ec9379d4259ac628f2495b6.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/sudden_death.ogg"
+dest_files=["res://.godot/imported/sudden_death.ogg-1535324a0ec9379d4259ac628f2495b6.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://da48qn6dunaq7"
+path="res://.godot/imported/victory.ogg-1bdf6eba1590490a68e087125fe4e60a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/victory.ogg"
+dest_files=["res://.godot/imported/victory.ogg-1bdf6eba1590490a68e087125fe4e60a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bfh6s4r43ys52"
+path="res://.godot/imported/diceThrow3.ogg-5db7a4dd8f738f3e60ffc37ba22ccf99.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Casino sounds (50 sounds)/diceThrow3.ogg"
+dest_files=["res://.godot/imported/diceThrow3.ogg-5db7a4dd8f738f3e60ffc37ba22ccf99.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

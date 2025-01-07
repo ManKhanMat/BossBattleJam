@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://e1gxxlkc0yww"
+path="res://.godot/imported/rumble1.ogg-c85608d687e05ada8ff8f37b0134a2c2.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Retro sounds (35 sounds)/rumble1.ogg"
+dest_files=["res://.godot/imported/rumble1.ogg-c85608d687e05ada8ff8f37b0134a2c2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

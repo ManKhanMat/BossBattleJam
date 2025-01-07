@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1j0lxjje3uud"
+path="res://.godot/imported/drip1.ogg-d029e320e1a15fa91df80344ccb5d701.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Bathroom (11 sounds)/drip1.ogg"
+dest_files=["res://.godot/imported/drip1.ogg-d029e320e1a15fa91df80344ccb5d701.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

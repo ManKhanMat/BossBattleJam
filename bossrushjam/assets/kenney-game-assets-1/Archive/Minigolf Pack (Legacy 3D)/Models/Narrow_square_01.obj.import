@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c35qi7st42j"
+path="res://.godot/imported/Narrow_square_01.obj-c6b4b44224cad52b26143a2b91d84d7a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Narrow_square_01.obj-c6b4b44224cad52b26143a2b91d84d7a.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Minigolf Pack (Legacy 3D)/Models/Narrow_square_01.obj"
+dest_files=["res://.godot/imported/Narrow_square_01.obj-c6b4b44224cad52b26143a2b91d84d7a.mesh", "res://.godot/imported/Narrow_square_01.obj-c6b4b44224cad52b26143a2b91d84d7a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

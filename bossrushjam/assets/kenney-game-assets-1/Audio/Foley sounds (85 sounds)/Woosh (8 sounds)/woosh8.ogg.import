@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cv6nnhr5kf17n"
+path="res://.godot/imported/woosh8.ogg-7953f79340cc45bdee4a2700ec93f726.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Woosh (8 sounds)/woosh8.ogg"
+dest_files=["res://.godot/imported/woosh8.ogg-7953f79340cc45bdee4a2700ec93f726.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

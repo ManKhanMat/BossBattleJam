@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cd4f5w0hkm5av"
+path="res://.godot/imported/new game.ogg-7e6442711b1de585bd433ca6660caea3.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/new game.ogg"
+dest_files=["res://.godot/imported/new game.ogg-7e6442711b1de585bd433ca6660caea3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

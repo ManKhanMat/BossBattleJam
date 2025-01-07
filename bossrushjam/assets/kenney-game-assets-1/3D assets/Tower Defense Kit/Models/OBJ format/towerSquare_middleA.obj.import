@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csgaug2alkamu"
+path="res://.godot/imported/towerSquare_middleA.obj-ac30f08cee36b696b93f9078eefb06db.mesh"
+
+[deps]
+
+files=["res://.godot/imported/towerSquare_middleA.obj-ac30f08cee36b696b93f9078eefb06db.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Tower Defense Kit/Models/OBJ format/towerSquare_middleA.obj"
+dest_files=["res://.godot/imported/towerSquare_middleA.obj-ac30f08cee36b696b93f9078eefb06db.mesh", "res://.godot/imported/towerSquare_middleA.obj-ac30f08cee36b696b93f9078eefb06db.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

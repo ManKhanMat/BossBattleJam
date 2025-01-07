@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b7ivt1txt7vxu"
+path="res://.godot/imported/planet_earth.ogg-4663c34f00787e5ff8a0573384bcc6fc.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/planet_earth.ogg"
+dest_files=["res://.godot/imported/planet_earth.ogg-4663c34f00787e5ff8a0573384bcc6fc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

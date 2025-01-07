@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://3vg72w75ksx7"
+path="res://.godot/imported/you_lose.ogg-8ecd23b222bd1f7436a0f99480f0a8ad.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Female/you_lose.ogg"
+dest_files=["res://.godot/imported/you_lose.ogg-8ecd23b222bd1f7436a0f99480f0a8ad.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

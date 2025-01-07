@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://brknweww8vb4c"
+path="res://.godot/imported/stone_column.obj-a1d7cbc177b5f6f4ce3697182b6f478b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stone_column.obj-a1d7cbc177b5f6f4ce3697182b6f478b.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/stone_column.obj"
+dest_files=["res://.godot/imported/stone_column.obj-a1d7cbc177b5f6f4ce3697182b6f478b.mesh", "res://.godot/imported/stone_column.obj-a1d7cbc177b5f6f4ce3697182b6f478b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

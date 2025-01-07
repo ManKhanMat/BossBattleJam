@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dbft5gisf3a0r"
+path="res://.godot/imported/time_over.ogg-711597b1c1a98e3ec74833898a26b1f0.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/time_over.ogg"
+dest_files=["res://.godot/imported/time_over.ogg-711597b1c1a98e3ec74833898a26b1f0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

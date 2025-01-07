@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bg4etdgw36r4n"
+path="res://.godot/imported/radar2.ogg-ff6b6d99634329f858e6ceecd0d4e59b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Retro sounds (35 sounds)/radar2.ogg"
+dest_files=["res://.godot/imported/radar2.ogg-ff6b6d99634329f858e6ceecd0d4e59b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

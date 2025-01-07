@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dvdainy0xbrw0"
+path="res://.godot/imported/you_win.ogg-4a40e39f84234a14c2278ad660decaac.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/you_win.ogg"
+dest_files=["res://.godot/imported/you_win.ogg-4a40e39f84234a14c2278ad660decaac.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c02fo8lqs6rl7"
+path="res://.godot/imported/war_sniper.ogg-37542be1ffd5e437c902dcdd7681502d.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Female/war_sniper.ogg"
+dest_files=["res://.godot/imported/war_sniper.ogg-37542be1ffd5e437c902dcdd7681502d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

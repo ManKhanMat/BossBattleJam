@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbrfk0f28240b"
+path="res://.godot/imported/innerCorner.obj-3fe518961ff28404983674ac107fcd32.mesh"
+
+[deps]
+
+files=["res://.godot/imported/innerCorner.obj-3fe518961ff28404983674ac107fcd32.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/innerCorner.obj"
+dest_files=["res://.godot/imported/innerCorner.obj-3fe518961ff28404983674ac107fcd32.mesh", "res://.godot/imported/innerCorner.obj-3fe518961ff28404983674ac107fcd32.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

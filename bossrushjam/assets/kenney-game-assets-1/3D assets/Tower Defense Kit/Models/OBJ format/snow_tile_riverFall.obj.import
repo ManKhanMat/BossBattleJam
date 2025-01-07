@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bbaunaw0iufvf"
+path="res://.godot/imported/snow_tile_riverFall.obj-b005940d8ef5ab25a9d72c8066ddf430.mesh"
+
+[deps]
+
+files=["res://.godot/imported/snow_tile_riverFall.obj-b005940d8ef5ab25a9d72c8066ddf430.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Tower Defense Kit/Models/OBJ format/snow_tile_riverFall.obj"
+dest_files=["res://.godot/imported/snow_tile_riverFall.obj-b005940d8ef5ab25a9d72c8066ddf430.mesh", "res://.godot/imported/snow_tile_riverFall.obj-b005940d8ef5ab25a9d72c8066ddf430.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

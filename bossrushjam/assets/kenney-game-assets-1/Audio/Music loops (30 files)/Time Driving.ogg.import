@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://destw2a4scbfg"
+path="res://.godot/imported/Time Driving.ogg-ea2ab39f5ba6bcb4277ceba24f953d5f.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Music loops (30 files)/Time Driving.ogg"
+dest_files=["res://.godot/imported/Time Driving.ogg-ea2ab39f5ba6bcb4277ceba24f953d5f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

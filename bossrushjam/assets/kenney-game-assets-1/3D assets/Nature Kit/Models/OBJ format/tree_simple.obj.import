@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqvhrkb887g4j"
+path="res://.godot/imported/tree_simple.obj-3a6c1912b0fafcb12000504fd703cc72.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_simple.obj-3a6c1912b0fafcb12000504fd703cc72.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/tree_simple.obj"
+dest_files=["res://.godot/imported/tree_simple.obj-3a6c1912b0fafcb12000504fd703cc72.mesh", "res://.godot/imported/tree_simple.obj-3a6c1912b0fafcb12000504fd703cc72.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

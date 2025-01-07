@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcuya40655sgo"
+path="res://.godot/imported/Brown_Waterfall_Top_01.obj-e45e00540025a6694d4dadac69fe62fa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Brown_Waterfall_Top_01.obj-e45e00540025a6694d4dadac69fe62fa.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Nature Pack (Legacy 3D)/Models/Brown_Waterfall_Top_01.obj"
+dest_files=["res://.godot/imported/Brown_Waterfall_Top_01.obj-e45e00540025a6694d4dadac69fe62fa.mesh", "res://.godot/imported/Brown_Waterfall_Top_01.obj-e45e00540025a6694d4dadac69fe62fa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

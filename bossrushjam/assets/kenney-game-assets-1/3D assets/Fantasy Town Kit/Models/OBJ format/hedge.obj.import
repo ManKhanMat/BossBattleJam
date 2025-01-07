@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://buytn676nq2qy"
+path="res://.godot/imported/hedge.obj-b96e9b4cbd071c77a4eb87d0d77279ff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hedge.obj-b96e9b4cbd071c77a4eb87d0d77279ff.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/hedge.obj"
+dest_files=["res://.godot/imported/hedge.obj-b96e9b4cbd071c77a4eb87d0d77279ff.mesh", "res://.godot/imported/hedge.obj-b96e9b4cbd071c77a4eb87d0d77279ff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

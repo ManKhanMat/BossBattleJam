@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ca2wl41efhwi0"
+path="res://.godot/imported/narrowRound.obj-87b45aad50c9718a602698d5c98ae031.mesh"
+
+[deps]
+
+files=["res://.godot/imported/narrowRound.obj-87b45aad50c9718a602698d5c98ae031.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/narrowRound.obj"
+dest_files=["res://.godot/imported/narrowRound.obj-87b45aad50c9718a602698d5c98ae031.mesh", "res://.godot/imported/narrowRound.obj-87b45aad50c9718a602698d5c98ae031.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

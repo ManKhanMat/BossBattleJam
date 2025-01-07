@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://5bi3inkmuwpf"
+path="res://.godot/imported/Ramp_3_01.obj-a3291ec6f0835f378a7c830c2f664077.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Ramp_3_01.obj-a3291ec6f0835f378a7c830c2f664077.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Minigolf Pack (Legacy 3D)/Models/Ramp_3_01.obj"
+dest_files=["res://.godot/imported/Ramp_3_01.obj-a3291ec6f0835f378a7c830c2f664077.mesh", "res://.godot/imported/Ramp_3_01.obj-a3291ec6f0835f378a7c830c2f664077.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

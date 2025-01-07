@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b67jkpbftpe86"
+path="res://.godot/imported/split.obj-99914f5bbbb289fbd4bf97a6c04b6a7a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/split.obj-99914f5bbbb289fbd4bf97a6c04b6a7a.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/split.obj"
+dest_files=["res://.godot/imported/split.obj-99914f5bbbb289fbd4bf97a6c04b6a7a.mesh", "res://.godot/imported/split.obj-99914f5bbbb289fbd4bf97a6c04b6a7a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

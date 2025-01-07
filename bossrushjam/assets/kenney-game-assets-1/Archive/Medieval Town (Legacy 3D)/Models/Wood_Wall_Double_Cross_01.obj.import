@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgrrloyen2yga"
+path="res://.godot/imported/Wood_Wall_Double_Cross_01.obj-bf8226e395d7f43a7aa01bd8025207bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wood_Wall_Double_Cross_01.obj-bf8226e395d7f43a7aa01bd8025207bf.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Medieval Town (Legacy 3D)/Models/Wood_Wall_Double_Cross_01.obj"
+dest_files=["res://.godot/imported/Wood_Wall_Double_Cross_01.obj-bf8226e395d7f43a7aa01bd8025207bf.mesh", "res://.godot/imported/Wood_Wall_Double_Cross_01.obj-bf8226e395d7f43a7aa01bd8025207bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cjiqqjvs4s2un"
+path="res://.godot/imported/its_a_tie.ogg-fe9e98ecbb76d66d4e69b855fd5e7dda.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/its_a_tie.ogg"
+dest_files=["res://.godot/imported/its_a_tie.ogg-fe9e98ecbb76d66d4e69b855fd5e7dda.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

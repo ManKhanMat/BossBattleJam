@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dn5bfxms6gqxf"
+path="res://.godot/imported/Infinite Descent.ogg-9ae30526d478fbe1fff01763a5628c74.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Music loops (30 files)/Infinite Descent.ogg"
+dest_files=["res://.godot/imported/Infinite Descent.ogg-9ae30526d478fbe1fff01763a5628c74.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

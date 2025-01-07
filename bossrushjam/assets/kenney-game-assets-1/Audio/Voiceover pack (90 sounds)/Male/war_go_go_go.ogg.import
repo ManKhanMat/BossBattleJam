@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://crpjkos3hmqsk"
+path="res://.godot/imported/war_go_go_go.ogg-500b3be03c5ae8f147b4cb33af9e66ab.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/war_go_go_go.ogg"
+dest_files=["res://.godot/imported/war_go_go_go.ogg-500b3be03c5ae8f147b4cb33af9e66ab.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

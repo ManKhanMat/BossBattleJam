@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bep3lttpy0cn"
+path="res://.godot/imported/jump4.ogg-a46f18d5d90bb006b1185082bfc0decc.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Retro sounds (35 sounds)/jump4.ogg"
+dest_files=["res://.godot/imported/jump4.ogg-a46f18d5d90bb006b1185082bfc0decc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

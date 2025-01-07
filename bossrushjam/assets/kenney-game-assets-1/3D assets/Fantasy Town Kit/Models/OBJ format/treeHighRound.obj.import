@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2k27rmh34ycl"
+path="res://.godot/imported/treeHighRound.obj-f86d04873c376264eee763952a057d81.mesh"
+
+[deps]
+
+files=["res://.godot/imported/treeHighRound.obj-f86d04873c376264eee763952a057d81.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/treeHighRound.obj"
+dest_files=["res://.godot/imported/treeHighRound.obj-f86d04873c376264eee763952a057d81.mesh", "res://.godot/imported/treeHighRound.obj-f86d04873c376264eee763952a057d81.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

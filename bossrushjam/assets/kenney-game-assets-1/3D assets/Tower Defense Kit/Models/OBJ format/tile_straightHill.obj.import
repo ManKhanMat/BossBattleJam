@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7wygoslex88s"
+path="res://.godot/imported/tile_straightHill.obj-0fa3f5a5a2cef9d566b5582bfc37bbab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile_straightHill.obj-0fa3f5a5a2cef9d566b5582bfc37bbab.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Tower Defense Kit/Models/OBJ format/tile_straightHill.obj"
+dest_files=["res://.godot/imported/tile_straightHill.obj-0fa3f5a5a2cef9d566b5582bfc37bbab.mesh", "res://.godot/imported/tile_straightHill.obj-0fa3f5a5a2cef9d566b5582bfc37bbab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

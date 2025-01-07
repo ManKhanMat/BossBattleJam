@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://csohcfyxl3244"
+path="res://.godot/imported/swordMetal6.ogg-e777ae04b1f118547c34849b49bd555d.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Swords (30 sounds)/swordMetal6.ogg"
+dest_files=["res://.godot/imported/swordMetal6.ogg-e777ae04b1f118547c34849b49bd555d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

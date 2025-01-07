@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dld7ss0wss3te"
+path="res://.godot/imported/wallWoodDetailDiagonal.obj-f8c056b42a96f40d14aa800164b93b5d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallWoodDetailDiagonal.obj-f8c056b42a96f40d14aa800164b93b5d.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/wallWoodDetailDiagonal.obj"
+dest_files=["res://.godot/imported/wallWoodDetailDiagonal.obj-f8c056b42a96f40d14aa800164b93b5d.mesh", "res://.godot/imported/wallWoodDetailDiagonal.obj-f8c056b42a96f40d14aa800164b93b5d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

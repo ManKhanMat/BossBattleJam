@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://i2tkh7qtxt8o"
+path="res://.godot/imported/ball_red.obj-3cff75c012100ae738fe3acc6a077db3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ball_red.obj-3cff75c012100ae738fe3acc6a077db3.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/ball_red.obj"
+dest_files=["res://.godot/imported/ball_red.obj-3cff75c012100ae738fe3acc6a077db3.mesh", "res://.godot/imported/ball_red.obj-3cff75c012100ae738fe3acc6a077db3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bwom7joqgw6no"
+path="res://.godot/imported/well_done.ogg-d6f56f5dcb7ed39a637a3b2886fb7f90.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/well_done.ogg"
+dest_files=["res://.godot/imported/well_done.ogg-d6f56f5dcb7ed39a637a3b2886fb7f90.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

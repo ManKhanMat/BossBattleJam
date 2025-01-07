@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bnssm4j7ac0fl"
+path="res://.godot/imported/mushroom_brownGroup.obj-a2440d15e67d38c748ab71d1636dd4d6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mushroom_brownGroup.obj-a2440d15e67d38c748ab71d1636dd4d6.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/mushroom_brownGroup.obj"
+dest_files=["res://.godot/imported/mushroom_brownGroup.obj-a2440d15e67d38c748ab71d1636dd4d6.mesh", "res://.godot/imported/mushroom_brownGroup.obj-a2440d15e67d38c748ab71d1636dd4d6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

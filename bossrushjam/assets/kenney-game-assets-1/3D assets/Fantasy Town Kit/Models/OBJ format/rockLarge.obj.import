@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://uo0mrlyma8fi"
+path="res://.godot/imported/rockLarge.obj-cf6ecf90aae697f81cd414708cb7476f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rockLarge.obj-cf6ecf90aae697f81cd414708cb7476f.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/rockLarge.obj"
+dest_files=["res://.godot/imported/rockLarge.obj-cf6ecf90aae697f81cd414708cb7476f.mesh", "res://.godot/imported/rockLarge.obj-cf6ecf90aae697f81cd414708cb7476f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

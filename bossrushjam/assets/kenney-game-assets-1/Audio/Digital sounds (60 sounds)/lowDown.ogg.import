@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bfanat113ewsc"
+path="res://.godot/imported/lowDown.ogg-874bd32a9a6dc0f598f3a2db108ab15f.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Digital sounds (60 sounds)/lowDown.ogg"
+dest_files=["res://.godot/imported/lowDown.ogg-874bd32a9a6dc0f598f3a2db108ab15f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

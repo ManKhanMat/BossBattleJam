@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bv0rb5norwyrq"
+path="res://.godot/imported/Preview (Female).ogg-55f46d78af1f9f18218c5b972fd8ff65.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Preview (Female).ogg"
+dest_files=["res://.godot/imported/Preview (Female).ogg-55f46d78af1f9f18218c5b972fd8ff65.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

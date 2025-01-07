@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://biooyenl83lt4"
+path="res://.godot/imported/Bump_01.obj-f5b2e61706a98c720ec062f8209c1263.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bump_01.obj-f5b2e61706a98c720ec062f8209c1263.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Minigolf Pack (Legacy 3D)/Models/Bump_01.obj"
+dest_files=["res://.godot/imported/Bump_01.obj-f5b2e61706a98c720ec062f8209c1263.mesh", "res://.godot/imported/Bump_01.obj-f5b2e61706a98c720ec062f8209c1263.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

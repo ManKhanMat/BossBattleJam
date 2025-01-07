@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bk4qolf6jubfx"
+path="res://.godot/imported/chop.ogg-da87fd099d75d47db163f5e7909fe24b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/RPG sounds (50 sounds)/chop.ogg"
+dest_files=["res://.godot/imported/chop.ogg-da87fd099d75d47db163f5e7909fe24b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

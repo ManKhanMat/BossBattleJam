@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cfcp5bs2ih3tq"
+path="res://.godot/imported/Swinging Pants.ogg-7a703fe064ef56d757c59d1c87b8a911.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Music loops (30 files)/Swinging Pants.ogg"
+dest_files=["res://.godot/imported/Swinging Pants.ogg-7a703fe064ef56d757c59d1c87b8a911.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

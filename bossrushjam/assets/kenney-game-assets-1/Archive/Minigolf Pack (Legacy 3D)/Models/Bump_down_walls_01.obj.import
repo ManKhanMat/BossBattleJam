@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dflsxs0k71i8h"
+path="res://.godot/imported/Bump_down_walls_01.obj-bab53cf532f26f2ccb574429c31b4013.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bump_down_walls_01.obj-bab53cf532f26f2ccb574429c31b4013.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Minigolf Pack (Legacy 3D)/Models/Bump_down_walls_01.obj"
+dest_files=["res://.godot/imported/Bump_down_walls_01.obj-bab53cf532f26f2ccb574429c31b4013.mesh", "res://.godot/imported/Bump_down_walls_01.obj-bab53cf532f26f2ccb574429c31b4013.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

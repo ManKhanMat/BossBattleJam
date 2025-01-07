@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cb5mog7n3ves7"
+path="res://.godot/imported/fountainCorner.obj-e16bcdf5fc3401fb01d98af0d992e3f2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fountainCorner.obj-e16bcdf5fc3401fb01d98af0d992e3f2.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/fountainCorner.obj"
+dest_files=["res://.godot/imported/fountainCorner.obj-e16bcdf5fc3401fb01d98af0d992e3f2.mesh", "res://.godot/imported/fountainCorner.obj-e16bcdf5fc3401fb01d98af0d992e3f2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ce2113818k1pg"
+path="res://.godot/imported/rollover5.ogg-84d811c0944a2bde5d90aee9bf71a168.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/UI sounds (50 sounds)/rollover5.ogg"
+dest_files=["res://.godot/imported/rollover5.ogg-84d811c0944a2bde5d90aee9bf71a168.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

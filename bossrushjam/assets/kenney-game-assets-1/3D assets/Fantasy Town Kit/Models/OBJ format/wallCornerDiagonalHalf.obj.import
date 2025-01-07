@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuneqjewlv6js"
+path="res://.godot/imported/wallCornerDiagonalHalf.obj-a8bec6480737afa8a974974547942116.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallCornerDiagonalHalf.obj-a8bec6480737afa8a974974547942116.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/wallCornerDiagonalHalf.obj"
+dest_files=["res://.godot/imported/wallCornerDiagonalHalf.obj-a8bec6480737afa8a974974547942116.mesh", "res://.godot/imported/wallCornerDiagonalHalf.obj-a8bec6480737afa8a974974547942116.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

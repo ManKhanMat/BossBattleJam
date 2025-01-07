@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bk5u133ubetaf"
+path="res://.godot/imported/Obstacle_triangle_01.obj-a8e1b9eae20d17d17e7834f851ace5d6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Obstacle_triangle_01.obj-a8e1b9eae20d17d17e7834f851ace5d6.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Minigolf Pack (Legacy 3D)/Models/Obstacle_triangle_01.obj"
+dest_files=["res://.godot/imported/Obstacle_triangle_01.obj-a8e1b9eae20d17d17e7834f851ace5d6.mesh", "res://.godot/imported/Obstacle_triangle_01.obj-a8e1b9eae20d17d17e7834f851ace5d6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

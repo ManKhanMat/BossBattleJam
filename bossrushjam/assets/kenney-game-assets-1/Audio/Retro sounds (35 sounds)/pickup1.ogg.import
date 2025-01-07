@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dwg1em6gtqr4y"
+path="res://.godot/imported/pickup1.ogg-7e8382c705a990630c8eb817bbce317c.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Retro sounds (35 sounds)/pickup1.ogg"
+dest_files=["res://.godot/imported/pickup1.ogg-7e8382c705a990630c8eb817bbce317c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

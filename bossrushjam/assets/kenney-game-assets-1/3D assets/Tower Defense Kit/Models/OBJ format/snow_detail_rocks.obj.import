@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6407h150baof"
+path="res://.godot/imported/snow_detail_rocks.obj-f834761204d3d0323cd420e8c71c4dcc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/snow_detail_rocks.obj-f834761204d3d0323cd420e8c71c4dcc.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Tower Defense Kit/Models/OBJ format/snow_detail_rocks.obj"
+dest_files=["res://.godot/imported/snow_detail_rocks.obj-f834761204d3d0323cd420e8c71c4dcc.mesh", "res://.godot/imported/snow_detail_rocks.obj-f834761204d3d0323cd420e8c71c4dcc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

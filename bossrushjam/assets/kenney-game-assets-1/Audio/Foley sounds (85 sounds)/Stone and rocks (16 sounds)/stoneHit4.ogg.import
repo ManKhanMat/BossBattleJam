@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bgpdr2igb38b4"
+path="res://.godot/imported/stoneHit4.ogg-df52fa4664930c42345db5ef8fba84f2.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Stone and rocks (16 sounds)/stoneHit4.ogg"
+dest_files=["res://.godot/imported/stoneHit4.ogg-df52fa4664930c42345db5ef8fba84f2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

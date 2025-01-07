@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cueuw18qb8x5a"
+path="res://.godot/imported/pickup3.ogg-52209395a7acdc6c38ef72bb73dd1578.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Metal helmet (6 sounds)/pickup3.ogg"
+dest_files=["res://.godot/imported/pickup3.ogg-52209395a7acdc6c38ef72bb73dd1578.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

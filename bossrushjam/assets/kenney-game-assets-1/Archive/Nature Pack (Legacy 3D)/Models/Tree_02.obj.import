@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bp4l0se1vdi4w"
+path="res://.godot/imported/Tree_02.obj-5d634d8f5af2e14ea3cc539ecc422b5d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tree_02.obj-5d634d8f5af2e14ea3cc539ecc422b5d.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Nature Pack (Legacy 3D)/Models/Tree_02.obj"
+dest_files=["res://.godot/imported/Tree_02.obj-5d634d8f5af2e14ea3cc539ecc422b5d.mesh", "res://.godot/imported/Tree_02.obj-5d634d8f5af2e14ea3cc539ecc422b5d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

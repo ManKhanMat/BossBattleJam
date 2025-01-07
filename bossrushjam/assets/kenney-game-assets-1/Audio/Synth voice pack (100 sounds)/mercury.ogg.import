@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://61soypodulon"
+path="res://.godot/imported/mercury.ogg-e9f344f0ee9a903855e6221067227ef0.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/mercury.ogg"
+dest_files=["res://.godot/imported/mercury.ogg-e9f344f0ee9a903855e6221067227ef0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

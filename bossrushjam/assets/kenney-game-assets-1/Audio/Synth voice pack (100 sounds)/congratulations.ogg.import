@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b2vk6r74b1ork"
+path="res://.godot/imported/congratulations.ogg-abd9e49a1fc4fa67504eb27c63cdca07.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/congratulations.ogg"
+dest_files=["res://.godot/imported/congratulations.ogg-abd9e49a1fc4fa67504eb27c63cdca07.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cw8keocornsy6"
+path="res://.godot/imported/ground_dirtRiverT.obj-40d0637eb3a2c8f7be752f55e7483849.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ground_dirtRiverT.obj-40d0637eb3a2c8f7be752f55e7483849.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/ground_dirtRiverT.obj"
+dest_files=["res://.godot/imported/ground_dirtRiverT.obj-40d0637eb3a2c8f7be752f55e7483849.mesh", "res://.godot/imported/ground_dirtRiverT.obj-40d0637eb3a2c8f7be752f55e7483849.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

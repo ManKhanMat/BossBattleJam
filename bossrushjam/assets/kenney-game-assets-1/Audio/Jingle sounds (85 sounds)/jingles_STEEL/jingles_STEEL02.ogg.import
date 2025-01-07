@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b8j1x4oyd0as"
+path="res://.godot/imported/jingles_STEEL02.ogg-a97d943f4aa46d0582808c79c65b9c63.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Jingle sounds (85 sounds)/jingles_STEEL/jingles_STEEL02.ogg"
+dest_files=["res://.godot/imported/jingles_STEEL02.ogg-a97d943f4aa46d0582808c79c65b9c63.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

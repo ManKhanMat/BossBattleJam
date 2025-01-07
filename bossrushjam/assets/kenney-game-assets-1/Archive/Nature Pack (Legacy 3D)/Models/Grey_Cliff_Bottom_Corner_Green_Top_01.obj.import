@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn64wo1sbdjmu"
+path="res://.godot/imported/Grey_Cliff_Bottom_Corner_Green_Top_01.obj-1080865f759123da34fe247cd1012eaa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Grey_Cliff_Bottom_Corner_Green_Top_01.obj-1080865f759123da34fe247cd1012eaa.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Nature Pack (Legacy 3D)/Models/Grey_Cliff_Bottom_Corner_Green_Top_01.obj"
+dest_files=["res://.godot/imported/Grey_Cliff_Bottom_Corner_Green_Top_01.obj-1080865f759123da34fe247cd1012eaa.mesh", "res://.godot/imported/Grey_Cliff_Bottom_Corner_Green_Top_01.obj-1080865f759123da34fe247cd1012eaa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d01n2mhnoqbqy"
+path="res://.godot/imported/chipsStack6.ogg-6b4e35a09065e7ca93c0cb2349a6a979.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Casino sounds (50 sounds)/chipsStack6.ogg"
+dest_files=["res://.godot/imported/chipsStack6.ogg-6b4e35a09065e7ca93c0cb2349a6a979.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

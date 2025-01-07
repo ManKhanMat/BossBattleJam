@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://djml56ydp2y5c"
+path="res://.godot/imported/chimneyTop.obj-7f00c6f3ebf8263e37f12337b8daf5de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chimneyTop.obj-7f00c6f3ebf8263e37f12337b8daf5de.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/chimneyTop.obj"
+dest_files=["res://.godot/imported/chimneyTop.obj-7f00c6f3ebf8263e37f12337b8daf5de.mesh", "res://.godot/imported/chimneyTop.obj-7f00c6f3ebf8263e37f12337b8daf5de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

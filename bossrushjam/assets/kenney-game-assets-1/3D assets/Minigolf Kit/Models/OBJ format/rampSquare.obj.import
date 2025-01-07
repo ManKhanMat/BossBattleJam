@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://750osgded8o6"
+path="res://.godot/imported/rampSquare.obj-5c4cf768c00f6a2b9f5abeacc0d8827f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rampSquare.obj-5c4cf768c00f6a2b9f5abeacc0d8827f.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/rampSquare.obj"
+dest_files=["res://.godot/imported/rampSquare.obj-5c4cf768c00f6a2b9f5abeacc0d8827f.mesh", "res://.godot/imported/rampSquare.obj-5c4cf768c00f6a2b9f5abeacc0d8827f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

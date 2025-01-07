@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ip478w5n1usv"
+path="res://.godot/imported/snow_tile_endRound.obj-d3e73e027cde9b671536a08604696aac.mesh"
+
+[deps]
+
+files=["res://.godot/imported/snow_tile_endRound.obj-d3e73e027cde9b671536a08604696aac.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Tower Defense Kit/Models/OBJ format/snow_tile_endRound.obj"
+dest_files=["res://.godot/imported/snow_tile_endRound.obj-d3e73e027cde9b671536a08604696aac.mesh", "res://.godot/imported/snow_tile_endRound.obj-d3e73e027cde9b671536a08604696aac.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

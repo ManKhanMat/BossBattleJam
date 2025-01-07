@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://t2r10njxfhj7"
+path="res://.godot/imported/chipsCollide3.ogg-206c5b5ff9dd575e6f935be5997abe22.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Casino sounds (50 sounds)/chipsCollide3.ogg"
+dest_files=["res://.godot/imported/chipsCollide3.ogg-206c5b5ff9dd575e6f935be5997abe22.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

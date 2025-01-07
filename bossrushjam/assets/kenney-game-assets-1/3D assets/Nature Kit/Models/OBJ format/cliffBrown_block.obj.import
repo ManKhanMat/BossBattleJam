@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://uty7fvqrtask"
+path="res://.godot/imported/cliffBrown_block.obj-9cfe18eb49b27204fba39400207daace.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cliffBrown_block.obj-9cfe18eb49b27204fba39400207daace.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/cliffBrown_block.obj"
+dest_files=["res://.godot/imported/cliffBrown_block.obj-9cfe18eb49b27204fba39400207daace.mesh", "res://.godot/imported/cliffBrown_block.obj-9cfe18eb49b27204fba39400207daace.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

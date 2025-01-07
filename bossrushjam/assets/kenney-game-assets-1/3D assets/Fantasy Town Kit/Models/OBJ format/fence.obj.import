@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://de78uiu4xm0o4"
+path="res://.godot/imported/fence.obj-6a287a9cd86d8d76eb0bdb0680c201b1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fence.obj-6a287a9cd86d8d76eb0bdb0680c201b1.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/fence.obj"
+dest_files=["res://.godot/imported/fence.obj-6a287a9cd86d8d76eb0bdb0680c201b1.mesh", "res://.godot/imported/fence.obj-6a287a9cd86d8d76eb0bdb0680c201b1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

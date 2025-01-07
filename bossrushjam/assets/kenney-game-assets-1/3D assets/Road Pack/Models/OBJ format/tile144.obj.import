@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b78xvy7122484"
+path="res://.godot/imported/tile144.obj-9b3e0b17e8ea5f408a41f687e10a4bed.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile144.obj-9b3e0b17e8ea5f408a41f687e10a4bed.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Road Pack/Models/OBJ format/tile144.obj"
+dest_files=["res://.godot/imported/tile144.obj-9b3e0b17e8ea5f408a41f687e10a4bed.mesh", "res://.godot/imported/tile144.obj-9b3e0b17e8ea5f408a41f687e10a4bed.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

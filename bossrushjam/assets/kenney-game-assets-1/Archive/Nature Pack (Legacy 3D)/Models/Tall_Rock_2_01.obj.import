@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dokjhujdga4kg"
+path="res://.godot/imported/Tall_Rock_2_01.obj-9f82edffef2f85884b4120ad01af75de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tall_Rock_2_01.obj-9f82edffef2f85884b4120ad01af75de.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Nature Pack (Legacy 3D)/Models/Tall_Rock_2_01.obj"
+dest_files=["res://.godot/imported/Tall_Rock_2_01.obj-9f82edffef2f85884b4120ad01af75de.mesh", "res://.godot/imported/Tall_Rock_2_01.obj-9f82edffef2f85884b4120ad01af75de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://be11aph0ggx4m"
+path="res://.godot/imported/cardShove1.ogg-83c6f5a8de3a00e67e2022d26f3db57a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Casino sounds (50 sounds)/cardShove1.ogg"
+dest_files=["res://.godot/imported/cardShove1.ogg-83c6f5a8de3a00e67e2022d26f3db57a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

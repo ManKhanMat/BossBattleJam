@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cite7gxph3byc"
+path="res://.godot/imported/Plate_Grass_01.obj-541b7b42547d2aaca713c93f8a5ad569.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Plate_Grass_01.obj-541b7b42547d2aaca713c93f8a5ad569.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Nature Pack (Legacy 3D)/Models/Plate_Grass_01.obj"
+dest_files=["res://.godot/imported/Plate_Grass_01.obj-541b7b42547d2aaca713c93f8a5ad569.mesh", "res://.godot/imported/Plate_Grass_01.obj-541b7b42547d2aaca713c93f8a5ad569.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

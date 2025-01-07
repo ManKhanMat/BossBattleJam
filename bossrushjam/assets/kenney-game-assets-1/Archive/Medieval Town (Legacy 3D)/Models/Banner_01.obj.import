@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvc5bbp433lyq"
+path="res://.godot/imported/Banner_01.obj-dd700507aa361ba5e83949ad8e4b50fd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Banner_01.obj-dd700507aa361ba5e83949ad8e4b50fd.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Medieval Town (Legacy 3D)/Models/Banner_01.obj"
+dest_files=["res://.godot/imported/Banner_01.obj-dd700507aa361ba5e83949ad8e4b50fd.mesh", "res://.godot/imported/Banner_01.obj-dd700507aa361ba5e83949ad8e4b50fd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

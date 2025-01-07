@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://wxnbctlxogta"
+path="res://.godot/imported/Game Over.ogg-e65ac679ca8c1bcad1157d4c3783dfba.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Music loops (30 files)/Game Over.ogg"
+dest_files=["res://.godot/imported/Game Over.ogg-e65ac679ca8c1bcad1157d4c3783dfba.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

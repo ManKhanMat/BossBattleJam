@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ru2muhdwomku"
+path="res://.godot/imported/Roof_Straight_Red_01.obj-cfc9b91f22aeddd373f2beefe2ff515b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Roof_Straight_Red_01.obj-cfc9b91f22aeddd373f2beefe2ff515b.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Medieval Town (Legacy 3D)/Models/Roof_Straight_Red_01.obj"
+dest_files=["res://.godot/imported/Roof_Straight_Red_01.obj-cfc9b91f22aeddd373f2beefe2ff515b.mesh", "res://.godot/imported/Roof_Straight_Red_01.obj-cfc9b91f22aeddd373f2beefe2ff515b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

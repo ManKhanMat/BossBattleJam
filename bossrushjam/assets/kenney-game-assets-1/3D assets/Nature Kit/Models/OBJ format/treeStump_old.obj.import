@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqamm7b328ghy"
+path="res://.godot/imported/treeStump_old.obj-edf66d7ca0ffa87ed8f4f3e125af8f72.mesh"
+
+[deps]
+
+files=["res://.godot/imported/treeStump_old.obj-edf66d7ca0ffa87ed8f4f3e125af8f72.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/treeStump_old.obj"
+dest_files=["res://.godot/imported/treeStump_old.obj-edf66d7ca0ffa87ed8f4f3e125af8f72.mesh", "res://.godot/imported/treeStump_old.obj-edf66d7ca0ffa87ed8f4f3e125af8f72.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

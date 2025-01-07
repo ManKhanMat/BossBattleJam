@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2mxjvwld08on"
+path="res://.godot/imported/roofGableTop.obj-126fa64f107e26857e5d8daaa2ed817d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roofGableTop.obj-126fa64f107e26857e5d8daaa2ed817d.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/roofGableTop.obj"
+dest_files=["res://.godot/imported/roofGableTop.obj-126fa64f107e26857e5d8daaa2ed817d.mesh", "res://.godot/imported/roofGableTop.obj-126fa64f107e26857e5d8daaa2ed817d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

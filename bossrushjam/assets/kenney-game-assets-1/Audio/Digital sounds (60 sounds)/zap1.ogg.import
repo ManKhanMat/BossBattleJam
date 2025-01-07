@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bqssye0pomy7i"
+path="res://.godot/imported/zap1.ogg-d1fa2476983f3ab5333918540ed4e4c3.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Digital sounds (60 sounds)/zap1.ogg"
+dest_files=["res://.godot/imported/zap1.ogg-d1fa2476983f3ab5333918540ed4e4c3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

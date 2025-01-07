@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dnhbp26cebykn"
+path="res://.godot/imported/3.ogg-5a39d7c7e09d50055650a14ed58a7605.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/3.ogg"
+dest_files=["res://.godot/imported/3.ogg-5a39d7c7e09d50055650a14ed58a7605.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2h5yegvbg1x1"
+path="res://.godot/imported/bamboo.obj-c8032f700ad9d69b489f700eee536c4c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bamboo.obj-c8032f700ad9d69b489f700eee536c4c.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/bamboo.obj"
+dest_files=["res://.godot/imported/bamboo.obj-c8032f700ad9d69b489f700eee536c4c.mesh", "res://.godot/imported/bamboo.obj-c8032f700ad9d69b489f700eee536c4c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

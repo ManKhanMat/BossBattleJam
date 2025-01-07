@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hb2tjpkts1qu"
+path="res://.godot/imported/cliffBrown_stepsCornerInner.obj-9003bf74a9e4252e85bedb384c80266e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cliffBrown_stepsCornerInner.obj-9003bf74a9e4252e85bedb384c80266e.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/cliffBrown_stepsCornerInner.obj"
+dest_files=["res://.godot/imported/cliffBrown_stepsCornerInner.obj-9003bf74a9e4252e85bedb384c80266e.mesh", "res://.godot/imported/cliffBrown_stepsCornerInner.obj-9003bf74a9e4252e85bedb384c80266e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

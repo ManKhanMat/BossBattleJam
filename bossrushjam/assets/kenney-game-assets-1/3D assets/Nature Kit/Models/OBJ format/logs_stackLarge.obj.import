@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dtdxdf4frlrie"
+path="res://.godot/imported/logs_stackLarge.obj-a5402148a6852256c9848192f1cb3225.mesh"
+
+[deps]
+
+files=["res://.godot/imported/logs_stackLarge.obj-a5402148a6852256c9848192f1cb3225.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/logs_stackLarge.obj"
+dest_files=["res://.godot/imported/logs_stackLarge.obj-a5402148a6852256c9848192f1cb3225.mesh", "res://.godot/imported/logs_stackLarge.obj-a5402148a6852256c9848192f1cb3225.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

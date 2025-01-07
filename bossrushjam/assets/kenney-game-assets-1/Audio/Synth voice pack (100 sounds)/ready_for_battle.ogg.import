@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cn848j82ro6wo"
+path="res://.godot/imported/ready_for_battle.ogg-d346134613a9f4fd1cd252bc1e398c6f.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/ready_for_battle.ogg"
+dest_files=["res://.godot/imported/ready_for_battle.ogg-d346134613a9f4fd1cd252bc1e398c6f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

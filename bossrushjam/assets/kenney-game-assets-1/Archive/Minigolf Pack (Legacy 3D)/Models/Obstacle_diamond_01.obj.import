@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ffoh1xlbnc8b"
+path="res://.godot/imported/Obstacle_diamond_01.obj-bc7eaf0087b950973b85b67809da59c3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Obstacle_diamond_01.obj-bc7eaf0087b950973b85b67809da59c3.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Minigolf Pack (Legacy 3D)/Models/Obstacle_diamond_01.obj"
+dest_files=["res://.godot/imported/Obstacle_diamond_01.obj-bc7eaf0087b950973b85b67809da59c3.mesh", "res://.godot/imported/Obstacle_diamond_01.obj-bc7eaf0087b950973b85b67809da59c3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

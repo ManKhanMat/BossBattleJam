@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dhmaafijcdm3c"
+path="res://.godot/imported/mission failed.ogg-d280ee88ff9fc54f522bfe3b620b3d86.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/mission failed.ogg"
+dest_files=["res://.godot/imported/mission failed.ogg-d280ee88ff9fc54f522bfe3b620b3d86.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cage16pu2evgk"
+path="res://.godot/imported/wheat.obj-56e429a9a78612d6206e91ce816f2efd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wheat.obj-56e429a9a78612d6206e91ce816f2efd.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/wheat.obj"
+dest_files=["res://.godot/imported/wheat.obj-56e429a9a78612d6206e91ce816f2efd.mesh", "res://.godot/imported/wheat.obj-56e429a9a78612d6206e91ce816f2efd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

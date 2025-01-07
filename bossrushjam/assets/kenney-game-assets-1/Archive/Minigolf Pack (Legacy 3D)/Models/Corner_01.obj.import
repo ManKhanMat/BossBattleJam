@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlv2nc17l6v8e"
+path="res://.godot/imported/Corner_01.obj-244254fa7dd8bb27cd818bbd3aa1fe2d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Corner_01.obj-244254fa7dd8bb27cd818bbd3aa1fe2d.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Minigolf Pack (Legacy 3D)/Models/Corner_01.obj"
+dest_files=["res://.godot/imported/Corner_01.obj-244254fa7dd8bb27cd818bbd3aa1fe2d.mesh", "res://.godot/imported/Corner_01.obj-244254fa7dd8bb27cd818bbd3aa1fe2d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

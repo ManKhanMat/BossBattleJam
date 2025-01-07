@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bdf3wysh6hvkw"
+path="res://.godot/imported/wallWoodDoorwaySquare.obj-5cb320e732b8534a821a2b1d42f23826.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallWoodDoorwaySquare.obj-5cb320e732b8534a821a2b1d42f23826.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/wallWoodDoorwaySquare.obj"
+dest_files=["res://.godot/imported/wallWoodDoorwaySquare.obj-5cb320e732b8534a821a2b1d42f23826.mesh", "res://.godot/imported/wallWoodDoorwaySquare.obj-5cb320e732b8534a821a2b1d42f23826.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccfkk5m231gvv"
+path="res://.godot/imported/rock_tall2.obj-b1c57e8dc2bff48cee85f40000013eb7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rock_tall2.obj-b1c57e8dc2bff48cee85f40000013eb7.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/rock_tall2.obj"
+dest_files=["res://.godot/imported/rock_tall2.obj-b1c57e8dc2bff48cee85f40000013eb7.mesh", "res://.godot/imported/rock_tall2.obj-b1c57e8dc2bff48cee85f40000013eb7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

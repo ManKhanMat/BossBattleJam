@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://y57oktrtl3oq"
+path="res://.godot/imported/planet_sun.ogg-0d89666859e0d9d1faf79e34899b494f.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/planet_sun.ogg"
+dest_files=["res://.godot/imported/planet_sun.ogg-0d89666859e0d9d1faf79e34899b494f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

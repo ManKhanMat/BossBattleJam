@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d0j5cvbtfjyt8"
+path="res://.godot/imported/stairsStoneCorner.obj-1bceb36749e8443f8d169e3c360a6194.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stairsStoneCorner.obj-1bceb36749e8443f8d169e3c360a6194.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/stairsStoneCorner.obj"
+dest_files=["res://.godot/imported/stairsStoneCorner.obj-1bceb36749e8443f8d169e3c360a6194.mesh", "res://.godot/imported/stairsStoneCorner.obj-1bceb36749e8443f8d169e3c360a6194.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ccmocxlbbsudo"
+path="res://.godot/imported/swordStone3.ogg-051f18dd85a5f899db6ea0e71b6f400a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Swords (30 sounds)/swordStone3.ogg"
+dest_files=["res://.godot/imported/swordStone3.ogg-051f18dd85a5f899db6ea0e71b6f400a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

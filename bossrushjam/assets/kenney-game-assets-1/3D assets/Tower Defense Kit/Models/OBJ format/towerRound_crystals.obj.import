@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bt7s174hkxfkt"
+path="res://.godot/imported/towerRound_crystals.obj-b82016778236ce8ef944864d54dc695e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/towerRound_crystals.obj-b82016778236ce8ef944864d54dc695e.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Tower Defense Kit/Models/OBJ format/towerRound_crystals.obj"
+dest_files=["res://.godot/imported/towerRound_crystals.obj-b82016778236ce8ef944864d54dc695e.mesh", "res://.godot/imported/towerRound_crystals.obj-b82016778236ce8ef944864d54dc695e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

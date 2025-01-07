@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7bce5777cmhh"
+path="res://.godot/imported/cliffGrey_waterfallMid.obj-4d7ebac6aacf7f074bfe2a000f858c09.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cliffGrey_waterfallMid.obj-4d7ebac6aacf7f074bfe2a000f858c09.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/cliffGrey_waterfallMid.obj"
+dest_files=["res://.godot/imported/cliffGrey_waterfallMid.obj-4d7ebac6aacf7f074bfe2a000f858c09.mesh", "res://.godot/imported/cliffGrey_waterfallMid.obj-4d7ebac6aacf7f074bfe2a000f858c09.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

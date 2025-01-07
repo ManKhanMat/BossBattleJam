@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://brett15jx4cuu"
+path="res://.godot/imported/tree_pine_shortSquare_detailed.obj-690c0b5e276f5423d2e6c5f7c7ca4e4d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_pine_shortSquare_detailed.obj-690c0b5e276f5423d2e6c5f7c7ca4e4d.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/tree_pine_shortSquare_detailed.obj"
+dest_files=["res://.godot/imported/tree_pine_shortSquare_detailed.obj-690c0b5e276f5423d2e6c5f7c7ca4e4d.mesh", "res://.godot/imported/tree_pine_shortSquare_detailed.obj-690c0b5e276f5423d2e6c5f7c7ca4e4d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

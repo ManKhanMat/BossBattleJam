@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxxlm5chr03ns"
+path="res://.godot/imported/rampB.obj-262d655938ced806ca1c47d82d9e5168.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rampB.obj-262d655938ced806ca1c47d82d9e5168.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/rampB.obj"
+dest_files=["res://.godot/imported/rampB.obj-262d655938ced806ca1c47d82d9e5168.mesh", "res://.godot/imported/rampB.obj-262d655938ced806ca1c47d82d9e5168.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://v2tgvim2q27c"
+path="res://.godot/imported/platesHit7.ogg-1847c34d5479487b4df317fefe608d6d.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Metal plates (14 sounds)/platesHit7.ogg"
+dest_files=["res://.godot/imported/platesHit7.ogg-1847c34d5479487b4df317fefe608d6d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

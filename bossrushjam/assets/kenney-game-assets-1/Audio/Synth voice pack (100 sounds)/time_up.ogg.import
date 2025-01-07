@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dlkfsber1cyob"
+path="res://.godot/imported/time_up.ogg-a359607bbece9597e143ad76012b4282.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/time_up.ogg"
+dest_files=["res://.godot/imported/time_up.ogg-a359607bbece9597e143ad76012b4282.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

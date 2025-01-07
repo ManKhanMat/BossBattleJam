@@ -1,0 +1,34 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://b06wxd4g3bd4g"
+path="res://.godot/imported/Kenney Thick.ttf-a499bfb120d6810f49ed21ee4321d859.fontdata"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Fonts/Kenney Thick.ttf"
+dest_files=["res://.godot/imported/Kenney Thick.ttf-a499bfb120d6810f49ed21ee4321d859.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+disable_embedded_bitmaps=true
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}

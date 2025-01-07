@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7nr2c686230m"
+path="res://.godot/imported/tile_riverSlopeLarge.obj-cbc10f260fb4469895796f6f2166d89a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile_riverSlopeLarge.obj-cbc10f260fb4469895796f6f2166d89a.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Tower Defense Kit/Models/OBJ format/tile_riverSlopeLarge.obj"
+dest_files=["res://.godot/imported/tile_riverSlopeLarge.obj-cbc10f260fb4469895796f6f2166d89a.mesh", "res://.godot/imported/tile_riverSlopeLarge.obj-cbc10f260fb4469895796f6f2166d89a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

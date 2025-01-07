@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d21a3pkcsg4yj"
+path="res://.godot/imported/side.obj-56197dc2a23ecd022d10f912541b84bd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/side.obj-56197dc2a23ecd022d10f912541b84bd.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/side.obj"
+dest_files=["res://.godot/imported/side.obj-56197dc2a23ecd022d10f912541b84bd.mesh", "res://.godot/imported/side.obj-56197dc2a23ecd022d10f912541b84bd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

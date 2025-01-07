@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bcutb2u6pswcp"
+path="res://.godot/imported/palmDetailed_small.obj-08f2dc42d30cd4006365710802a3194e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/palmDetailed_small.obj-08f2dc42d30cd4006365710802a3194e.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/palmDetailed_small.obj"
+dest_files=["res://.godot/imported/palmDetailed_small.obj-08f2dc42d30cd4006365710802a3194e.mesh", "res://.godot/imported/palmDetailed_small.obj-08f2dc42d30cd4006365710802a3194e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

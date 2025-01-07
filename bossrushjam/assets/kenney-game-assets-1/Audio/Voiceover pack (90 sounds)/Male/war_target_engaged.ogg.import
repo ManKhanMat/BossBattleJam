@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bclvmbqk0auat"
+path="res://.godot/imported/war_target_engaged.ogg-57d5e15cf369ac92edcbd268c5b2d96c.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/war_target_engaged.ogg"
+dest_files=["res://.godot/imported/war_target_engaged.ogg-57d5e15cf369ac92edcbd268c5b2d96c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

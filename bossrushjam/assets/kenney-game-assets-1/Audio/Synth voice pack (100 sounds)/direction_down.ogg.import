@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cie7lnabkgle3"
+path="res://.godot/imported/direction_down.ogg-db1d683eb268bf9fa58ab72c9605ae7f.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Synth voice pack (100 sounds)/direction_down.ogg"
+dest_files=["res://.godot/imported/direction_down.ogg-db1d683eb268bf9fa58ab72c9605ae7f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

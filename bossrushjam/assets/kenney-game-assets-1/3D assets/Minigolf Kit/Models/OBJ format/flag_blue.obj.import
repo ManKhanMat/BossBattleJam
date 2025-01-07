@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3ojjiu5cfhmr"
+path="res://.godot/imported/flag_blue.obj-d14dec76363b8b42d2fd263327f496ca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/flag_blue.obj-d14dec76363b8b42d2fd263327f496ca.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/flag_blue.obj"
+dest_files=["res://.godot/imported/flag_blue.obj-d14dec76363b8b42d2fd263327f496ca.mesh", "res://.godot/imported/flag_blue.obj-d14dec76363b8b42d2fd263327f496ca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

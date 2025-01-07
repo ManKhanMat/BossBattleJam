@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1k7me63o0v54"
+path="res://.godot/imported/Preview (Male).ogg-e365063c1d5dac635fe93271364670e6.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Preview (Male).ogg"
+dest_files=["res://.godot/imported/Preview (Male).ogg-e365063c1d5dac635fe93271364670e6.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bls4pcrtl266b"
+path="res://.godot/imported/war_reloading.ogg-01b27298e07d0cf2e876d491e1279372.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/war_reloading.ogg"
+dest_files=["res://.godot/imported/war_reloading.ogg-01b27298e07d0cf2e876d491e1279372.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

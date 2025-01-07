@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://de756j8p4vvqr"
+path="res://.godot/imported/Grey_Window_Round_01.obj-94664931c9fffbc5f65158ffb502029d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Grey_Window_Round_01.obj-94664931c9fffbc5f65158ffb502029d.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/Archive/Medieval Town (Legacy 3D)/Models/Grey_Window_Round_01.obj"
+dest_files=["res://.godot/imported/Grey_Window_Round_01.obj-94664931c9fffbc5f65158ffb502029d.mesh", "res://.godot/imported/Grey_Window_Round_01.obj-94664931c9fffbc5f65158ffb502029d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

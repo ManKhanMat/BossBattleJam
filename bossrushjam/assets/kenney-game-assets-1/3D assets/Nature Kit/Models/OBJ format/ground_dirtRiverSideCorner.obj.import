@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dq8sr3hturlbu"
+path="res://.godot/imported/ground_dirtRiverSideCorner.obj-a1ae0340ad0773279c25e65147d06103.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ground_dirtRiverSideCorner.obj-a1ae0340ad0773279c25e65147d06103.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/ground_dirtRiverSideCorner.obj"
+dest_files=["res://.godot/imported/ground_dirtRiverSideCorner.obj-a1ae0340ad0773279c25e65147d06103.mesh", "res://.godot/imported/ground_dirtRiverSideCorner.obj-a1ae0340ad0773279c25e65147d06103.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

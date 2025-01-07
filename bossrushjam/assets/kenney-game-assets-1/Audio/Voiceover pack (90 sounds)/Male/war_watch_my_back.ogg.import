@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dgell6gvaaqxm"
+path="res://.godot/imported/war_watch_my_back.ogg-fca1a8b95de9859c0f993b872f636ce1.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/war_watch_my_back.ogg"
+dest_files=["res://.godot/imported/war_watch_my_back.ogg-fca1a8b95de9859c0f993b872f636ce1.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

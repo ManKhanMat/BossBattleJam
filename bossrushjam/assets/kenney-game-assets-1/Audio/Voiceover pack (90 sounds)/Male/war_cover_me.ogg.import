@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b46tu51l3yox5"
+path="res://.godot/imported/war_cover_me.ogg-5af8d295222c9d65fec9df309ebf1b9a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/war_cover_me.ogg"
+dest_files=["res://.godot/imported/war_cover_me.ogg-5af8d295222c9d65fec9df309ebf1b9a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://chg1i45fh6rh6"
+path="res://.godot/imported/power_up.ogg-f54017f4d1aa0d5a206640f0ef7a263b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/power_up.ogg"
+dest_files=["res://.godot/imported/power_up.ogg-f54017f4d1aa0d5a206640f0ef7a263b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

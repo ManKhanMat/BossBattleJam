@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b87jeuw1e14du"
+path="res://.godot/imported/zapTwoTone2.ogg-9468faf0a7ff50a53f794723d353a24b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Digital sounds (60 sounds)/zapTwoTone2.ogg"
+dest_files=["res://.godot/imported/zapTwoTone2.ogg-9468faf0a7ff50a53f794723d353a24b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

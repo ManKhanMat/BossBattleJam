@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bbhfmqo5j5evy"
+path="res://.godot/imported/lowRandom.ogg-bcb404042ac17c3d1865798d93906962.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Digital sounds (60 sounds)/lowRandom.ogg"
+dest_files=["res://.godot/imported/lowRandom.ogg-bcb404042ac17c3d1865798d93906962.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

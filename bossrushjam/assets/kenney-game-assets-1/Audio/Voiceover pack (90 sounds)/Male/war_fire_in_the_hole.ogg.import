@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c0kr1fhtilu3d"
+path="res://.godot/imported/war_fire_in_the_hole.ogg-65e175abf18e3b34163ab2f7573f7f20.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Male/war_fire_in_the_hole.ogg"
+dest_files=["res://.godot/imported/war_fire_in_the_hole.ogg-65e175abf18e3b34163ab2f7573f7f20.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

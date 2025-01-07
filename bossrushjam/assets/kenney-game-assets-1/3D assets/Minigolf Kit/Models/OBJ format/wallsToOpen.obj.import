@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d24aq8fa7d2gq"
+path="res://.godot/imported/wallsToOpen.obj-18e5fa95a5a1b4bf3f28920783cb8e9e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallsToOpen.obj-18e5fa95a5a1b4bf3f28920783cb8e9e.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Minigolf Kit/Models/OBJ format/wallsToOpen.obj"
+dest_files=["res://.godot/imported/wallsToOpen.obj-18e5fa95a5a1b4bf3f28920783cb8e9e.mesh", "res://.godot/imported/wallsToOpen.obj-18e5fa95a5a1b4bf3f28920783cb8e9e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

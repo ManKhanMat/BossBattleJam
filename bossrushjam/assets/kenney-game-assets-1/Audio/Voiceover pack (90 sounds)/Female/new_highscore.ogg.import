@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://blbq3lw62b44o"
+path="res://.godot/imported/new_highscore.ogg-6bcb0f0e82f1eae77dd7fead708a3173.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Female/new_highscore.ogg"
+dest_files=["res://.godot/imported/new_highscore.ogg-6bcb0f0e82f1eae77dd7fead708a3173.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://nvux8372ao8i"
+path="res://.godot/imported/sword2.ogg-90cae0423384ba61c02c88d17be37a3e.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Foley sounds (85 sounds)/Swords (30 sounds)/sword2.ogg"
+dest_files=["res://.godot/imported/sword2.ogg-90cae0423384ba61c02c88d17be37a3e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

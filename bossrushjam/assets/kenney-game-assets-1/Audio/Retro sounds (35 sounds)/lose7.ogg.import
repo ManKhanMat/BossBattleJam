@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bky2n1y3rpdkf"
+path="res://.godot/imported/lose7.ogg-de831ab5011791e95dee2a856ab51525.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Retro sounds (35 sounds)/lose7.ogg"
+dest_files=["res://.godot/imported/lose7.ogg-de831ab5011791e95dee2a856ab51525.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b150mii8xpqwc"
+path="res://.godot/imported/fence_cornerRound.obj-466955b3989db3d6a7b3c92a4e8825ff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fence_cornerRound.obj-466955b3989db3d6a7b3c92a4e8825ff.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/fence_cornerRound.obj"
+dest_files=["res://.godot/imported/fence_cornerRound.obj-466955b3989db3d6a7b3c92a4e8825ff.mesh", "res://.godot/imported/fence_cornerRound.obj-466955b3989db3d6a7b3c92a4e8825ff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

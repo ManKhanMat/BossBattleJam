@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dodyqyn2jpq14"
+path="res://.godot/imported/mouseclick1.ogg-c349606e3408097acdd435140db265fd.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/UI sounds (50 sounds)/mouseclick1.ogg"
+dest_files=["res://.godot/imported/mouseclick1.ogg-c349606e3408097acdd435140db265fd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

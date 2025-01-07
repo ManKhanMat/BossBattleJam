@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dyr0vsyf1654w"
+path="res://.godot/imported/wall.obj-21c36d952ed89a22fd42f14009a412f6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall.obj-21c36d952ed89a22fd42f14009a412f6.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Fantasy Town Kit/Models/OBJ format/wall.obj"
+dest_files=["res://.godot/imported/wall.obj-21c36d952ed89a22fd42f14009a412f6.mesh", "res://.godot/imported/wall.obj-21c36d952ed89a22fd42f14009a412f6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

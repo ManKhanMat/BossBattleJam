@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://145vwjj42w5i"
+path="res://.godot/imported/mission_failed.ogg-8697533d694e2836a7cf157e50e4fc4d.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/kenney-game-assets-1/Audio/Voiceover pack (90 sounds)/Female/mission_failed.ogg"
+dest_files=["res://.godot/imported/mission_failed.ogg-8697533d694e2836a7cf157e50e4fc4d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

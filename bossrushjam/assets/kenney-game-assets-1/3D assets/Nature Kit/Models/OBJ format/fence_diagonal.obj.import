@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cif1485oh2jl5"
+path="res://.godot/imported/fence_diagonal.obj-b377301d9824436d5f62da7f97934ceb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fence_diagonal.obj-b377301d9824436d5f62da7f97934ceb.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/fence_diagonal.obj"
+dest_files=["res://.godot/imported/fence_diagonal.obj-b377301d9824436d5f62da7f97934ceb.mesh", "res://.godot/imported/fence_diagonal.obj-b377301d9824436d5f62da7f97934ceb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

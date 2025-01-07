@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://be48iggxpekdb"
+path="res://.godot/imported/cliffGrey_entrance.obj-ace5a0380dff3e2d14b68cd3d2241a23.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cliffGrey_entrance.obj-ace5a0380dff3e2d14b68cd3d2241a23.mesh"]
+
+source_file="res://assets/kenney-game-assets-1/3D assets/Nature Kit/Models/OBJ format/cliffGrey_entrance.obj"
+dest_files=["res://.godot/imported/cliffGrey_entrance.obj-ace5a0380dff3e2d14b68cd3d2241a23.mesh", "res://.godot/imported/cliffGrey_entrance.obj-ace5a0380dff3e2d14b68cd3d2241a23.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
